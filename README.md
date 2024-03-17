@@ -1,4 +1,4 @@
-# MERN Auth App
+# MERN Auth App Otp
 
 Welcome to the MERN Auth App, your go-to solution for robust authentication powered by the MERN stack. This application provides a seamless authentication experience with advanced features like JSON Web Tokens (JWT) and one-time passwords (OTP) using Nodemailer for password recovery.
 
@@ -39,4 +39,4 @@ Welcome to the MERN Auth App, your go-to solution for robust authentication powe
 The MERN Auth App is developed to serve as a learning resource for aspiring developers. Dive into its functionalities, experiment with different scenarios, and contribute to the community's knowledge pool.
 
 Happy coding and exploring! 🚀
-# MERN-Auth-Otp
+
